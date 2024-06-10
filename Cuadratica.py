@@ -17,8 +17,6 @@ def raices(a, b, discrim):
   cero = -b/(2*a)
   return raiz1,raiz2,cero
 
-
-
 print('Calculo de raices')
 a=float(input('a: '))
 b=float(input('b: '))
